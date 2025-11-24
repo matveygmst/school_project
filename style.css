@@ -46,7 +46,7 @@ nav {
 }
 
 .menu-icon {
-  position: absolute;
+  position: static;
   z-index: 3;
   width: 35px;
   height: 35px;
@@ -69,7 +69,7 @@ nav {
 }
 
 .menu-close {
-  position: absolute;
+  position: static;
   width: 35px;
   height: 35px;
   right: 30px;
