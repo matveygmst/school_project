@@ -24,7 +24,7 @@ nav {
 }
 
 #side-bar {
-  display: none;
+  display: flex;
   position: fixed;
   background-color: rgb(48, 71, 48);
   width: 200px;
@@ -42,7 +42,7 @@ nav {
 }
 
 .mobile-block {
-  display: block;
+  display: flex;
 }
 
 .menu-icon {
