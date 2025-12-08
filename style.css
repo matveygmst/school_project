@@ -24,7 +24,7 @@ nav {
 }
 
 #side-bar {
-  display: flex;
+  display: none;
   position: fixed;
   background-color: rgb(48, 71, 48);
   width: 200px;
