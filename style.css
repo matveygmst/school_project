@@ -35,14 +35,14 @@ nav {
 }
 
 .menu-items {
-  display: flex;
+  display: none;
   flex-direction: column;
   gap: 40px;
   margin-top: 60px;
 }
 
 .mobile-block {
-  display: flex;
+  display: none;
 }
 
 .menu-icon {
